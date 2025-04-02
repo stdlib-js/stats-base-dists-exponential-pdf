@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-10)
+## Unreleased (2025-04-02)
+
+<section class="features">
+
+### Features
+
+-   [`f222a56`](https://github.com/stdlib-js/stdlib/commit/f222a563cf818ac4a36c9fc80ee931e97ea580cc) - add C implementation for `stats/base/dists/exponential/pdf` [(#4172)](https://github.com/stdlib-js/stdlib/pull/4172)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3589](https://github.com/stdlib-js/stdlib/issues/3589)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`f222a56`](https://github.com/stdlib-js/stdlib/commit/f222a563cf818ac4a36c9fc80ee931e97ea580cc) - **feat:** add C implementation for `stats/base/dists/exponential/pdf` [(#4172)](https://github.com/stdlib-js/stdlib/pull/4172) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
 
@@ -25,10 +48,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
