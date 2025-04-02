@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3d10cb9`](https://github.com/stdlib-js/stdlib/commit/3d10cb99b5ad1a338511dcae8ced40bcc418c503) - **chore:** clean-up _(by Athan Reines)_
 -   [`f222a56`](https://github.com/stdlib-js/stdlib/commit/f222a563cf818ac4a36c9fc80ee931e97ea580cc) - **feat:** add C implementation for `stats/base/dists/exponential/pdf` [(#4172)](https://github.com/stdlib-js/stdlib/pull/4172) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
@@ -48,8 +49,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
