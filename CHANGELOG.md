@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-18)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`88c63b2`](https://github.com/stdlib-js/stdlib/commit/88c63b2692cdefa8caa7b42906478865bedd0521) - **bench:** update random value generation for `stats/base/dists/exponential` [(#10330)](https://github.com/stdlib-js/stdlib/pull/10330) _(by Siddhartha Mondal, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Siddhartha Mondal
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
