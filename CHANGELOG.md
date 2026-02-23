@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5cc3f4f`](https://github.com/stdlib-js/stdlib/commit/5cc3f4f8aad580d87fe6ae2ed41271e4791cca70) - **bench:** refactor to use string interpolation in `stats/base/dists/exponential` [(#10346)](https://github.com/stdlib-js/stdlib/pull/10346) _(by Vishal Gaikwad)_
 -   [`88c63b2`](https://github.com/stdlib-js/stdlib/commit/88c63b2692cdefa8caa7b42906478865bedd0521) - **bench:** update random value generation for `stats/base/dists/exponential` [(#10330)](https://github.com/stdlib-js/stdlib/pull/10330) _(by Siddhartha Mondal, Philipp Burckhardt)_
 
 </details>
@@ -24,10 +25,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
 -   Siddhartha Mondal
+-   Vishal Gaikwad
 
 </section>
 
