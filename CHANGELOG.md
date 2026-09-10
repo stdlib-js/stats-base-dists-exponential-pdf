@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`42d3459`](https://github.com/stdlib-js/stdlib/commit/42d345944ad067d4b9db02cc05b6adb2f232b635) - **style:** add missing spaces [(#15143)](https://github.com/stdlib-js/stdlib/pull/15143) _(by Philipp Burckhardt)_
 -   [`cd8ce6e`](https://github.com/stdlib-js/stdlib/commit/cd8ce6eaf0b4a345e7977807c00a1348a30bf195) - **test:** migrate `stats/base/dists/exponential/pdf` to ULP-based assertions [(#15136)](https://github.com/stdlib-js/stdlib/pull/15136) _(by Aryan kumar)_
 -   [`bd60a20`](https://github.com/stdlib-js/stdlib/commit/bd60a209ca4b0989663edbbc591bc7da80294827) - **build:** update R version to 4.2.0 in lint workflows [(#11262)](https://github.com/stdlib-js/stdlib/pull/11262) _(by Mara Averick)_
 -   [`5cc3f4f`](https://github.com/stdlib-js/stdlib/commit/5cc3f4f8aad580d87fe6ae2ed41271e4791cca70) - **bench:** refactor to use string interpolation in `stats/base/dists/exponential` [(#10346)](https://github.com/stdlib-js/stdlib/pull/10346) _(by Vishal Gaikwad)_
